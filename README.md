@@ -1,1 +1,1 @@
-# Omdena / Radmol AI challenge - CRC and LC datasets EDA and ML notebooks
+Omdena - Radmol AI CRC and LC datasets EDA and ML notebooks
